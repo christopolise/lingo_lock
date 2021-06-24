@@ -1,0 +1,2 @@
+duolingo-api
+urwid
